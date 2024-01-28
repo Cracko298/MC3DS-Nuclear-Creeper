@@ -2,4 +2,4 @@
 A Creeper mod that stretches Minecraft3DS to the Absolute Limits.
 
 ## Features:
-- **Huge Explosions! (** ***fire included*).**
+- **Huge Explosions!** *(**fire included*).**
