@@ -70,10 +70,10 @@
         "max": 100
       },
       "minecraft:attack": {
-        "damage": 1000.0
+        "damage": 1000.0,
         "effect_name": "wither",
         "effect_duration": 3000
-    },
+      },
 
       "minecraft:damage_sensor": [
         {
